@@ -1,0 +1,50 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+body{font-family:
+    Lato;}
+.header{color: white;}
+body{display: flex;align-items: center;justify-content: center;flex-direction: column;background-color: black;}
+.content{background-image: url(img1.webp);width: 100%;height: 600px;background-size: cover;color: white;}
+.image >img{width: 600px;}
+.text1{width: 600px;height: 600px;color: white;display: flex;align-items: center;justify-content: center;flex-direction: column;}
+.card1 >img{width: 400px;}
+.card3 >img{width: 400px;}
+.card2 >img{width: 400px;}
+.bags{color: white;}
+.content3 >img{width: 100%;}
+.content3{color: white;display: flex;align-items: center;justify-content: center}
+.text > button{width: 300px;height: 50px;color: aliceblue;  background-color: transparent;font-size: 20px;border: 3px white solid;}
+.text1 > button{width: 300px;height: 50px;color: aliceblue;  background-color: transparent;font-size: 20px;border: 3px white solid;}
+.bag1 >button{background-color: black;color: white;border: none;font-weight: 900;}
+.bag2 >button{background-color: black;color: white;border: none;font-weight: 900;}
+.bag3 >button{background-color: black;color: white;border: none;font-weight: 900;}
+.bag1:hover {margin-top: -20px;}
+.bag2:hover {margin-top: -20px;}
+.bag3:hover {margin-top: -20px;}
+.content{display: flex;align-items: center;justify-content: center;flex-direction: row;text-align: center;gap: 10px;}
+.content3 >img{position: relative;margin-top: 200px;}
+.childtext{position: absolute;}
+.content1 {display: flex;}
+.cards{display: flex;gap: 20px;}
+.header{flex-direction: row;display: flex;height: 100px;justify-content: center;align-items: center;gap: 800px;}
+.bags{display: flex;align-items: center;justify-content: center;text-align: center;}
+.content3 {margin-top: 50px;}
+.content1 {margin-top:50px;}
+.content2 {margin-top: 50px;}
+.bags{margin-top: 50px;}
+.cards{margin-top: 100px;}
+.image >img{margin-top: 50px;}
+.card1 >img{filter: blur(10px);}
+.card2 >img{filter: blur(10px);}
+.card3 >img{filter: blur(10px);}
+.card1 >img:hover{filter: none;}
+.card2 >img:hover{filter: none;}
+.card3 >img:hover{filter: none;}
+
+.childtext{width: 600px;display: flex;flex-direction: column;text-align: center;font-size: 30px;}
+
+
+    
+
+
+
+
